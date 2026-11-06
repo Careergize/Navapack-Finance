@@ -1,0 +1,19 @@
+
+> navapack-finance-preview@0.1.0 test
+> node --test scripts/*.test.mjs
+
+✔ all ten direct workspace routes render the preview gate before entry (32.4622ms)
+✔ demo returns isolated copies and only fictional document identifiers (510.5499ms)
+✔ canceled loading rejects without returning records (1.2995ms)
+✔ Frappe provider fails closed and never silently returns demo records (0.3783ms)
+✔ account hierarchy has existing parents and no cycles (0.4114ms)
+✔ unpaid invoice fixtures match documented dashboard totals (0.2726ms)
+✔ workspace routes are behind an explicit preview gate with no token reuse (1.489ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1858.9803

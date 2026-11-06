@@ -1,0 +1,6 @@
+.env.local
+*.local.json
+upstream/
+build/
+backups/
+evidence/

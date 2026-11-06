@@ -1,0 +1,1478 @@
+[
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\.env",
+    "Hash": "18764D7B4595AF4ADE30303A933549F7F820F99040F94DFD0FDCA4643BF1725C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\.env.example",
+    "Hash": "FC86F1EB31E11F97E4345F3B4F848F5B6F464CC3A8F88D432B04C7FCFE153371"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\.gitignore",
+    "Hash": "D002685E10A237CEE9CA1927BE5FB3691AA52E9F9C0EA17D1DF04081E6FF5749"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\catalogue_concurrency_check.py",
+    "Hash": "73BDD11C1D621B83FC119B9D06803A8FF52A48801E9F449B0ED39C687AF7DDF6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\db.sqlite3",
+    "Hash": "E2DF536E5D7EB894F7FD1B7AB43D020B349F8A542CB4FD40BCB70E63B55C32FB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\manage.py",
+    "Hash": "6C9381864CA7B120190C92506B050DCB941C1CFA417154D91C3C68DA26F4B526"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\PERSISTENCE_STATUS.md",
+    "Hash": "78877E7F8D47B6238DB7A1BB4A25E4AA2EAEE0BAB529238D8F9FEA29E67036A9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\README.md",
+    "Hash": "7745967409332C3C3D016F43FC2850E8577C67CB3FBAE0B4650493FF42DEADDF"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\requirements.txt",
+    "Hash": "C511C34DD5A48F32D5E70A43C0BA095F1DCD1AC37FD0F745E0CAA705A891E27B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\sales_concurrency_check.py",
+    "Hash": "A0B530A0B945337F3444255D33A5172FD70A5FC3C4D57A0129BB09A039E795E6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\spares_opening_concurrency_check.py",
+    "Hash": "9AEAEAF01EFE561E069C0DD69415D513B4FB050FA05342C4120C9260D6E65806"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\test_baseline_runner.py",
+    "Hash": "6115BF61CBC8B808F5B7F4DE0AF99CCC0F04EB0BBE24321BE03B17C4AC58F92A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\__init__.py",
+    "Hash": "7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\api.py",
+    "Hash": "B887147924B29B9B4757F0C2EA76796DBE97BF1300F369FD59C87C4738F50F68"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\apps.py",
+    "Hash": "29F83466913F5741DA60868822965B30F479E4DFC157E64D9C25B6912704AA83"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\commitments.py",
+    "Hash": "2FF392584EC344AB7BD4EBCA9D8A01FC3484FFBCDDC1D4C7482D579368054411"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\customer_links.py",
+    "Hash": "122DF4A95F459BD40CA73B7ED740B004AFEC189A0C3AEEE9C7F648199947FCE3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\detailed_profit_loss.py",
+    "Hash": "331F3787F748FC637BA67F1F5E094F59399C30D267838A4E44B2BEEAB4DECFB2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\dispatch_sales.py",
+    "Hash": "EBC8FFE6F5E67413F680DE9EE661AC4108076063073973480BD1B42243749746"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\integration.py",
+    "Hash": "B981E0BB97B12F5B1D0EF0117568B4E010680A528477C9DFA96D5C1146157811"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\masters.py",
+    "Hash": "B5BD910D8FD5E1F7EF5287A964DA44453728923B59FF22694B86F656241434CB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\models.py",
+    "Hash": "9AC98EE1CF52A8BB92457F790272FC6047EA8AACB3AFD2FFC3BE11B1FC154DCB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\README.md",
+    "Hash": "7E154820973DA74F63AB2EFE239DF0F9AD56EA0C7D950891C935C81C1D4209A8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\reports.py",
+    "Hash": "CD3F063341CAA93EB8E3FFB7532E3E8C1025AF0D0506BB08DC2476B1E4406029"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\services.py",
+    "Hash": "DE415323A010815EBA800F2646E6822B0A41C4E22B2EC5FDB024AC90A4B49BA8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\signals.py",
+    "Hash": "804B99B8E9CDAB9DEC8A281722FEA213CFECDC9C2E6758CBC86578635EDF3F6D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\test_dispatch_sales.py",
+    "Hash": "F9555FF417299A4B18091F636446671F904BBF7A2A210A681585BDCE73E8695F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\tests.py",
+    "Hash": "D9E7A9AE0EA3969F9C55F0DAA9E561CADF28AFED994DA113028B75F9D31E9A82"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\urls.py",
+    "Hash": "2937442623682FDB29A9C36BEA956101F9ECA6D4D11E9194D182794470DF958C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\valuation_items.py",
+    "Hash": "7F2F0403A7C69CDB1B55680AB1199228EAAD31FAA778B943EBC728AEE9A19B86"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\views.py",
+    "Hash": "01F8E436A6137185C375D4381DD3F6126AB7CCEA4E2066FF4543679D17206999"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\voucher_pdf.py",
+    "Hash": "1CD7403A32C4B01637CBDB0B442316C60F5B4238292BB838E24F18A8E03AB324"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\__init__.py",
+    "Hash": "7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\0001_initial.py",
+    "Hash": "DAA50155E11FC795CE3471B270AF99A3B3FA9F6CE3F178D3F8A8D444A7CB08DE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\0002_documentline_category.py",
+    "Hash": "5135E0D5C92AB5E6722F86FCD285CC4358991BDF103116908429BB96C634759D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\0003_allocation_date_allocation_recorded_document_and_more.py",
+    "Hash": "D6CF241A422D413BC5E53B2382C5B864F3A3AC7AFBEAA38A52B4EBF468A370D8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\0004_postingevent_cancelled.py",
+    "Hash": "9B07D8F050C48FA3E9B6472297EC97CCF5CCA1D736CF772028BE5D11A5DBC464"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\0005_costassignment.py",
+    "Hash": "37E85F3B89C6F50633B2ABC73DECA9C354F2750540F2610FDC80444A7FA72200"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\0006_finance_masters.py",
+    "Hash": "66A84040C49B3190407D884F0BB255A48627EA3E2928578E93258F45AC569AE3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\0007_currency_display_fields.py",
+    "Hash": "7B4140D29C49DA5558E9BE7A0717153B02D669378D31457F69598072623C846E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounting\\migrations\\0008_account_pnl_section.py",
+    "Hash": "210F4AB25EC847B1ACD2180D0E7F1A6BEDEEAC8868751A77B9AEA4717E4052A2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\admin.py",
+    "Hash": "32D7896C349EDC8F21903A5F6FBB591FA5E7B3FF2E33DFCF77730E4AE8A3BBFE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\backends.py",
+    "Hash": "79105B680359C27C89F899108303EF320A606E22E3DE466BD7F4859AD774B9BA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\management_api.py",
+    "Hash": "82CDAAE34C5F0705C3EAA98B531FE880056492C7DD879846760BB0381CAC54F2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\models.py",
+    "Hash": "4E0CA7D2452A19D9E2A5D78EAC98ABC11AF391E49AE6F51CE109E50D06A4F875"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\tests.py",
+    "Hash": "EA64713C1CD7AC5B760E6C2EF3BA9CCABE72C52A28936B954058D4F6613CFCB2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\views.py",
+    "Hash": "5691A8B896BE6EAFC5BC248A401FCEB0448A2069EF57FCC413E7CCFF5954DB28"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\migrations\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\migrations\\0001_initial.py",
+    "Hash": "607AB2E0FE31764871C96CF1EAE8C11952C65F2684A5F43DC52D348001DD09BF"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\migrations\\0002_alter_user_role_role_user_assigned_role.py",
+    "Hash": "886EAE19EDD957B9418697048F55A4CFA73E1F5F51FFCE9AAA89EF84622F4AAE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\accounts\\migrations\\0003_seed_role_master.py",
+    "Hash": "62C8F905ACD992A826A4208AA4B673D7E5D590F210353E10A5D836C613222AE3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\config\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\config\\asgi.py",
+    "Hash": "10B6591ADF6B01CAD9555CB5F5F89FF8A5FCF2D9B367EE0A82C0F8A8FA556075"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\config\\settings.py",
+    "Hash": "C75DFE6E8D1D4C064B40B1B77465A7BB28E9B901024E0931E12F11889BEB6E4D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\config\\urls.py",
+    "Hash": "AA65DD22465EDFF87A2C79EBE7CE658BBBB112EBF9A95D32B984CA59870BF22F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\config\\wsgi.py",
+    "Hash": "704812947CB89D2F75D40EB0B0E8AE22BEA64084B41068C2F965BF198390E59F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\admin.py",
+    "Hash": "F6016637F47BFB95B6826DEE96E08B9BF9497C3878E363FF1C5FF32A0394DC2D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\confirmation_test_fixtures.py",
+    "Hash": "05E329950945093DE1B64DFEFD5AFE1DED3EE4B8F4EE0B5B0AEE81981E4BDE39"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\finished_stock.py",
+    "Hash": "FCB4E80DEEB6792F4CEA23EF6356C7E4875B0AB2008757FA40A180B76265F460"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\grn.py",
+    "Hash": "CB7AD0743461676215DDCE4D47929BD88D5AE006642769E605B52C64049E4816"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\inhouse_waste.py",
+    "Hash": "69F3AF3EDDEF83BF91AA98ACBEA0280F09F01D2B40F5C689D2D2BDEA82826FFE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\job_costing.py",
+    "Hash": "6D92A4759A9618E08E5E9CCD9E2B295711A20376944DB2022F46636F4DBA7CD8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\job_drafts.py",
+    "Hash": "B7665515064F7151B5B0E867EC3062E8955A97C0ED768A3837B88D3482102441"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\labour_jobs.py",
+    "Hash": "4D74FDFC09B89AE9083CC78F001592E23370DC5322C52BF36DFAB41EA88D74FA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\models.py",
+    "Hash": "406890F4E90484F947EF5089D76A24156FBC35B1CD273657B0C95520B037CC9A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\operational_policy.py",
+    "Hash": "856D2A2D537CFB228284974FDDA7C5CFC9FDEEC8FAC14CEFC3EF6BAB7B3BCDA7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\operational_records.py",
+    "Hash": "892B16FE55DCB299F2596D61CDC41E332200B7D1B864AB496B1F06B9269EF05F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\order_confirmation_evidence.py",
+    "Hash": "6EA0237EED3FCDB6FCD61349C327014D5C0A391004594371F251A7B504431BBB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\order_control_foundation.py",
+    "Hash": "F6DECA6355CE4CC07404364C11B2C8643D603EE3536DC152C1187CC176BED8F7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\order_drafts.py",
+    "Hash": "52BA152084A2842BB0C82DF165591B3B4FC9029C0BC706289BFA012DD41FD8D8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\order_review_foundation.py",
+    "Hash": "6615A06FCE351491915D83D1B7DAFB7349DD50F1DFDD7C9C7FDF066E12D9F102"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\order_source.py",
+    "Hash": "BDBDAEE48BD01C1BACEDBA8FFF532A16F99808732B1CA4193D10990B0B897F81"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\production_workflow.py",
+    "Hash": "7B262AB92136384DA690D3FE7D8EE1F136F119A3CA44E4E968B270F6B033C8A6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\purchases.py",
+    "Hash": "75291ECF504ADE60ED22BBF01C8FA8109B1C4591E53C7838ECEF42F682A134E4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\recycled_materials.py",
+    "Hash": "33EBD8E9DBFCBABE3A0628CB25C2CB7BB73F15090562D5A8DBD1C5521D597660"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\recycling_purchases.py",
+    "Hash": "28C14D7756EB9908879FBE50298CF2A91ABE7B744088CEACF6A5C1B86DFBFBD3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\sales_api.py",
+    "Hash": "BA06EA0CE01084B63F57FCBB697923915FC70D46881323E6C9675AF113529E0D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\SALES_BACKEND_IMPLEMENTATION.md",
+    "Hash": "F94400655527945F903DFBCFA26DFD18D5AB8329CBFFEA75A7325C264D920F82"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\sales_models.py",
+    "Hash": "3E5E3F3A3227EC02472F08B35A1FF2EA41CF15A9A80A0E3EEECB46700730DB0A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\sales_pdf.py",
+    "Hash": "9FE23B8FA6F279DCF9CEDD67FF8687ADF8E20DC12E14D1C28A468EF00269087B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\sales_service.py",
+    "Hash": "6D205C4A791BBE6C4270695D8AF70D7A8EC40697B0FC58770D450F0478B8711B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\sales_urls.py",
+    "Hash": "D4FF9C028F9DA721DEBFB19964CA2F2068C6A8A96DC95DC680F50B134F86A2A2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\serializers.py",
+    "Hash": "9A3BFEEFD5FFCC15A83AE2C6F6CEA375EA05C767BEEE7034BD25CB589F48A7D0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\shared_entries.py",
+    "Hash": "A254B595323FE06D1F99B292824513B01E56D3FF5E56BD78AA956D0DA55DB332"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_baseline_characterization.py",
+    "Hash": "450B3C9BD9EE0006C6FAE65B13C1800FCA1BE53A24CE728232A1D3BED6F43FB9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_control_foundation.py",
+    "Hash": "3625D130CB4BD2CDF13BB005565E8B9C1069016EE03ABF084297C80FDB01B61E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_customers.py",
+    "Hash": "07DEDE29F2A49A8FB9482D23102A6618A81457CDDA6D7EF59B1E99A477588382"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_grn.py",
+    "Hash": "44B11517FF31224EAFEE7395A8ABA2C44E2DC8FAB4F8080ED683B93A35DB4C2C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_inhouse_waste.py",
+    "Hash": "51A0D088C40EA08D53747500034071437AAEE7D884414B75E87649D8A0D804E5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_integration_migrations.py",
+    "Hash": "53BF258D69F94C33AB1F7B75F45F416041B4D475E849DDFCF25E394316F7806C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_job_drafts.py",
+    "Hash": "48D870F2353AF692253F8998A980A5B876677F8C65D5200A82A931F5B843EE26"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_labour_jobs.py",
+    "Hash": "BBB7328B31029388D545216338B7FFA6CDC7BD897928332E9856931C94DFF089"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_operational_authority.py",
+    "Hash": "0B21BF6317C961590E0D494ADBECDB8B5ACC04F4DEC653ADF92A1E229501C924"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_operational_records.py",
+    "Hash": "E3313D629B59894D2D6884D4646C06B9F6C1293F61440C0784EFA64EF340B15D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_order_confirmation_evidence.py",
+    "Hash": "36E8DE622C2BDA3EDEAD7C24BC0449A72A110170CDE176EBBA27517D527F132A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_order_control_foundation.py",
+    "Hash": "8C87618F83624F731A70CE87C8772B6E6479141B9E8AEFC2874F4A57C67352F6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_order_drafts.py",
+    "Hash": "C2B256858517858406B9F6E8E0ED468A882F0CE355E61B9E8389142A399F7DA3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_order_review_foundation.py",
+    "Hash": "8CC5D21AD61A6029A948C9D5B9D0AAFD0E9D5056B7B816E6718AEB3F6B76164F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_production_workflow.py",
+    "Hash": "974DA0A58EBAEF3796E5AF133360B2F88FF8A188619FE2CE29BF359BAE18DBDE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_purchases.py",
+    "Hash": "42E14536CB5B1039C6503A91AF0B800C5EA29B1CFCACA5EAE7CAA0397C0DEA4D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_recycled_materials.py",
+    "Hash": "3B2A8124FA9AD10B313E6F77A0E681B48FFF31548BB5C8883B7406B30A524C2F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_recycling_purchases.py",
+    "Hash": "797B9C15CC5C309BF07A3D34EAC965ED3FB8FCED449CB1A0A20D8704004F9BE1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_sales.py",
+    "Hash": "E67F8AECCD09D9A5DFFA40FF9FF8C1CC0A5C2D0A46E072AECBBA095D4C19F533"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_shared_entries.py",
+    "Hash": "64FCC4854B444C06CE34C18C0489D4B811A1EE1E2CBD651C5FD14762DBC14274"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\test_units.py",
+    "Hash": "526DDF1EAD9DD52CE1C9154F1CDC67D84200D77CFC8FDC50424256193F5E9254"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\tests.py",
+    "Hash": "AA13D30CC84E826143FB92E679AB8B4917B831E360D53941AD011AE7508D6E43"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\views.py",
+    "Hash": "75CDE4765B3AFD34CE9B715F66D5042F4ED69804BF471D46F1E1E8662B4DB5FC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\data\\quality_reference.json",
+    "Hash": "7F7ED9B8FF90DC6F7E7A637683354DBA25B9952D27815FBB38F5527DBCD2B587"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0001_initial.py",
+    "Hash": "727437DEC9339EAE93D9922D00B85BD5E1DB29563833250A16DB8051C736A96F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0002_customer_contact_person_customer_creation_key_and_more.py",
+    "Hash": "24C932CCA015AEFA1B0C5EF6CFA7021AFC0C1D9D45642585BAA7D6E421276A6A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0003_unit.py",
+    "Hash": "75683A50B4B90D33A8B93C35F7AB91A1906C94EE4150055E3ED6218DA1D4A625"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0004_seed_units.py",
+    "Hash": "ED3BDB432D6BB1EA3EAF8C0A4938984EE097D0203521FA44E13C2D1C0916677B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0005_purchaseorder_purchaseorderline.py",
+    "Hash": "E0BDAC3FDA4D094C0441D1F5E8D6E4320678146211F2F44086714C7546C5AD09"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0006_purchase_permissions.py",
+    "Hash": "F0836006082F5F924CDFC28D8E84393BFCC8DC43D4E10DCAB14ABECDB1A201AB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0007_finishedstockitem_purchaseorderline_stock_details_and_more.py",
+    "Hash": "60A18700EBAF6C9B3704AF31CCCACE2622D9E4CD9EBDB8AB79D0420B4B254D24"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0008_finished_stock_reference.py",
+    "Hash": "861D56EA4AE5254E38B1390316949893DCB41A9921B1954994FB9056B7278EA9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0009_purchaseorder_receipt_method_goodsreceivednote_and_more.py",
+    "Hash": "71761EA23F6D0F74F6EBC86337E1375E3B51A0F91FD8B98E1823BAABD7651A62"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0010_grn_permissions.py",
+    "Hash": "4495B930ACD09B13E65FC85762A321E2040092213CA296AC6A58006769E9C39A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0011_productionprocess_productionmodelrevision_and_more.py",
+    "Hash": "8DB7C12390124C3FA8449E719610690AB8877C301533AE36E91E1764875E0D14"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0012_workflow_permissions.py",
+    "Hash": "0D18E67DC6BCEBF9B4D07AA21D24E5DE27489A306CF42B0D41560803BA9C3077"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0013_inactive_control_foundation.py",
+    "Hash": "2CE2EA770CD4C3EA8EB41E3BD53DB98CAEC186AAC28BD94AACF000AAD17C3809"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0013_productionmachine.py",
+    "Hash": "BAEEB2C49BAF8ED39840D53FA9B981C40C304A50E91F7E472ABD1B9AAA0ECF6D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0014_merge_task03a_productionmachine.py",
+    "Hash": "185DFC95B253B0E2069FC764E4611A56C0F5F45AF6D6E783F8B5EB6173599F6E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0014_workflowjob_request_id_alter_workflowjob_order.py",
+    "Hash": "4E62432D9BAE1519FCBEAB239C3B08B15E1A8BC464B348100C0805770F5FD13A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0015_alter_workfloworder_options.py",
+    "Hash": "190534ED5F36290010094880CBDF8DCD3E7C24623DE981DB695544E9E049CBC3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0016_merge_existing_workflow_heads.py",
+    "Hash": "BE63174E2B3444C0133E7221D44BE289A23BB47587F4E89921561505C523522F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0017_shared_entry_history.py",
+    "Hash": "5BA246E11183F33DC7E5D6A6C7B1FC342185FAB317DA94A8DD4335CDB4395D06"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0018_shared_entry_permissions.py",
+    "Hash": "670E34D0C8BF82B068940B3C0F4A1E440547296869EB1C4DD3994856D61610BD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0019_production_tracking_permission.py",
+    "Hash": "F04E3055497F5A63B903AD9316379B2C04698B54757609250D3CEB519E941DB2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0020_recycling_entry_permission.py",
+    "Hash": "534B07DCD174A9EB796B05BA269D9E1B882DCA7988A865A23E8CFB9EFBA8A2EB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\0021_sales_operations.py",
+    "Hash": "89B436C1B84B3925D8B1DB897A01828532820629FF2649A96A8D1E9AC66FDB6D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\erp\\migrations\\finished_stock_reference.json",
+    "Hash": "4C0E2C51F01AE7D6972564666D190BC3631C5E7DF075C5091BBC96D6638ACFF5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\__init__.py",
+    "Hash": "7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\admin.py",
+    "Hash": "298D8B25E529D8090CA63D42329AF449A9836EE855736303865CB8F20D6CF440"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\catalog_api.py",
+    "Hash": "1337EBBC0EFC377DCA6B4D5E49D246CBF3A19BE5AA97254EE5A7536E844CB3B1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\catalog_models.py",
+    "Hash": "AFB809C66F7ECB9CE4F9E0C26B0BAE6C0FB06B13EA131A1CA5907772B7CF2140"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\CATALOGUE_INTEGRATION.md",
+    "Hash": "006FE44E4E7045161F215AC3F695645EA4B6CA662403C32F189DE951CA04F2E7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\catalogue_service.py",
+    "Hash": "D187DCB0F1890C9A27F470179ED765EF1C4BA39AB1D67D54461E514F35A7304B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\models.py",
+    "Hash": "EFF24BF706E2B545E92E842A4BBB4C323E7B072D44BCF0F4D1443ACA90784F90"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\README.md",
+    "Hash": "F44B34CF3BB7A53221B926EC184162742CDFF930590E4CB7C39EF583A2FE63FD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\spare_opening_api.py",
+    "Hash": "FEA09671A141709E8E10CE0DD71A1AC72881929484CD9C0407911D41CF833BBC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\spare_opening_models.py",
+    "Hash": "398303FA51CC0DF5DB7A612BBC6B2E57A23F56CDD5EF2BB46B3E136BEAB3BFA0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\spare_opening_test_helpers.py",
+    "Hash": "642286596CBA390749E900C2B5E1D71DCA5D1D9AB7261EF0AFED4F7453EE411E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\spare_openings.py",
+    "Hash": "CCA5651FBF63C4FAB6F1CBD025C6B6B8CBE889F8138A23F6ED683C569447DB6D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\spare_service.py",
+    "Hash": "4930D8EFEDE4A8018797E7B1CC572D27FE943D4FA84F44C11C7277018C1FCB8F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\SPARES_OPENING_APPROVAL.md",
+    "Hash": "E56A487555EAD8EB2D6E81CFB9C4E847E13FC00B576587D1CD1A31EA25AA612B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\test_catalog.py",
+    "Hash": "EC296214F717205CB4EFCB6E22DB1C7CC4DBE9311C7F5B8E61CA6A854CB971DE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\test_catalogue_integration.py",
+    "Hash": "353BE03825A7AB176A947838CFAA68D3B2475604C0A162C87F053E1B98FD6252"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\test_migrations.py",
+    "Hash": "084A27408594653299D4555CB15BF91A3E50EB1F02A52996572349F079F294CC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\test_spare_openings.py",
+    "Hash": "8887DCAC828E1E7A6401DC7C4008B5956FDE63BE6FEE9A4000DB22D291EE210E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\tests.py",
+    "Hash": "BF5528660EB6A8A4CCDCAED1700B9A61DEAD8B15833EB675C8F586AE1ADE9C13"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\urls.py",
+    "Hash": "5B59F242E1CD40D3018FAE9AAEF97BCE3A7FDE896714997FA4EF5BFB26F6C571"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\views.py",
+    "Hash": "439E7A5FB073F583CB3BE1804F0B41F84EEDEA7192693968B676E6C5FBCAF5D1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\__init__.py",
+    "Hash": "7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0001_initial.py",
+    "Hash": "C516CE67B328462F077ACA2A06F0517BDD92066580B250ED82238ED46CEEB4E5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0002_reference_inventory.py",
+    "Hash": "28F831BFBCF3BF28E163D25B511B054EDD040C47A726834ECDE072C6F0120FF2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0003_inventory_permissions.py",
+    "Hash": "0FBCB238525AF6933C633C33D6B679D0CCCF710D6E2C577EB7D0863818105696"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0004_procurementdelivery_procurementplanrevision_and_more.py",
+    "Hash": "6B6F5E9E91360BB19A18433375A77F17F1AB902D039E37417B3B5ED0366AF5E6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0005_normalize_saved_deliveries.py",
+    "Hash": "C239BB600F5F6F0D6FC0AF6006149E65E87BC96B352CAB94E10B8E2B588AE58A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0006_remove_procurementplan_deliveries.py",
+    "Hash": "2C2A72C2475AE2116C0B98CD08AB87DEEB14E623581F6D5381103FA95CF01230"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0007_delivery_history_view_permissions.py",
+    "Hash": "43474DFB37360CA68B1DC9470CFDFE00241FF23BE6BBE8F8C1C7834D16900CAE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0008_procurementplan_as_of_date_and_more.py",
+    "Hash": "A0FA99FB9875BA2149BF60DBAB5B987D422AF36900C0A8F8A66CD2F2BE3CD560"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0009_procurementplan_procurement_stock_nonnegative.py",
+    "Hash": "2DF9249B93BC6B63D62B0F594C53E219D4F594E286158BB08010A6CA16C1B09C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0010_spares_consumables.py",
+    "Hash": "47212876C13ECAEEDEA44BE8AA00BD866A8D4B5BA66A07F1F2091405695DAAF6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0011_catalogue_integration.py",
+    "Hash": "16F72141951BAFE57A5F9A20F8E40E6F1857A0B3BE1F76D62DA19308350B9EC0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\0012_spare_opening_approval.py",
+    "Hash": "12EB14D4781304E244E0CD2CFF616E88A684BBFCDC32B86210996DCC0BD09B75"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\inventory\\migrations\\reference.json",
+    "Hash": "9F8ACE4787FCC3F1B6D4B378C265C7A11362A11C9D8656D191E39D95E50B22D2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\output\\db-before-migrate-20261026-111658.sqlite3",
+    "Hash": "DBA1305C80CFC24030DFC9C4BA0A9A3729757DCF4EAA46518F61C30A2801AB8A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\output\\dev-server\\stderr.log",
+    "Hash": "92F2485BADA52E96DB9CDF6E704BAE37479B72E6D835A779366309102814AF2E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\output\\dev-server\\stdout.log",
+    "Hash": "FF023A0459514FEE3A41143EAB4A555C11D4454185441323F73EC8A0D8C297D6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\output\\pdf\\navapack-quotation-sample.pdf",
+    "Hash": "3440855EB587E081D94DD80489AD060FBDF012AE4BCD6D412C8BF469B4AF93D6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\admin.py",
+    "Hash": "985D7B37FF4E9DA3A5AD675DC3AF1D23D79EFF381019CBB42B1BB849FE7E5695"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\delivery.py",
+    "Hash": "3C5038F93AECF8870BCFDA93E6EDF5BF8B71D3AD56D873C204F164C3293E361A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\drafts.py",
+    "Hash": "FBE98182C1F0D20112E051B6973CB1BFC642EE0E1524A5B37CCEACDF1096992D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\from_order.py",
+    "Hash": "EC334243F60526188EAB0AD085657599562B58517BD2AD806783E91885490633"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\fulfillment.py",
+    "Hash": "C66D3E6522DC77AD94C8E410D651FD4EF0F7C85B94E55A3779320B9D3FAE7919"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\models.py",
+    "Hash": "42A4DD1E9C8D0F56365096DA1252FAE3706644C436BD8CC651C01D544C2BB23C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\pdf.py",
+    "Hash": "C81CBFD0E747A798A2A3A2BFECE251E2412DD5664F826A6303BBD349A1C4D5C0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\README.md",
+    "Hash": "C0C84173CE70EF17D10C25BC9CC512725371FE8337AF3F661F2E4B72B0A1B6EA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\sample.json",
+    "Hash": "515CF32D3A7AB4912E9EA9332AF41A9B1FE7041DABC876F8E99E6DF472913BC4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\serializers.py",
+    "Hash": "107CA11D8994F9B283773A530D7325F759D5344861967CEBB8AF9D1081E6909E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\test_drafts.py",
+    "Hash": "382B1D959A9C58544FD4A64AA0FCE136C4D0F56B73A19F96FC0831DC78F552F7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\test_fulfillment.py",
+    "Hash": "66440A2634817EDCF7A03D4D908AB8472774FF97A07B250B9947BA516E404544"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\tests.py",
+    "Hash": "55AA310ADE0F779B290FC18EE1298639AA2D1116D51CA09C318084BA77FD4F79"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\views.py",
+    "Hash": "BB1763809D5B6A45E680481191D540478BC84F3E142186B68BA2720ED5560166"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\assets\\Nava-logo.png",
+    "Hash": "5AFD871F621503D28A711E727EBC407CB3FBE91C493B836E7975158E8DC82825"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\0001_initial.py",
+    "Hash": "4470946FC61A7CFAC01A9A2814DC6A1387567212E93D4D276D57A192FB9D2272"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\0002_quotation_customer_master.py",
+    "Hash": "C39A683ADE5B06BA130B6A828DF9F8492DFA37F5B70408586E4428FF1DAC3FE1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\0003_quotation_submitted_at.py",
+    "Hash": "75BA1CBFD3C82C2C14B61E3A1CA48D9D7230FF828695B03D1D365C3E159C09C0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\0004_quotation_rejected_at_quotation_rejected_by_and_more.py",
+    "Hash": "7993B3B402056FD6AB7E799443784C3C30F6DACCA11B3E4C5C2541AB6D9659D3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\0005_quotationdraft.py",
+    "Hash": "98DBCF12347E9E939ED23CC7D97020859CCD1903E392E863C390C9C37BBA4041"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\0006_inactive_control_foundation.py",
+    "Hash": "FC488B6E77817767E14F3D9F54EB4E663B379503419A1E1DB5EA97F331724C58"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\0006_order_quotation_permissions.py",
+    "Hash": "3EF96D61FBEAA927754370BB36822ED1EA4ACAE64749B277C9E6A8978A9278C3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\quotations\\migrations\\0007_merge_existing_control_heads.py",
+    "Hash": "A2ED91470212F1038FF85A983BFBCC932D454BCB2EE61515DE272F7C6F8CD656"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-baseline.txt",
+    "Hash": "8EAAC084811426AB50F983325BCD38C2C85AF2D57AA5D994579AF9287C3F1007"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-concurrency.txt",
+    "Hash": "CFDBE0D61B77DAE121692F22EE141DCE961F8993EA4578EEFAC5AEB5E5B0AE58"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-drift.txt",
+    "Hash": "A18985C66C965D3F178E97795C0C814616E89B42E6B417479200B1F35AA9C086"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-focused.txt",
+    "Hash": "4915D99A0577BF226A8932062AE7EA71E3FF27A4A540A3EF0038842A11A3AD8C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-graph.txt",
+    "Hash": "561AA84AC616844B120DCE78F1B0FA963917F87B88086A60FD8DD0D48568F056"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-integration-tests.txt",
+    "Hash": "8546FB20545AAC9C437F8EECB1A6FF2C957EC6D4BC8C1AA7F0E5E0A59AD0ADE4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-migration-regressions.txt",
+    "Hash": "373A91F16FCC2B9D696947965A112D2E1996F840E71065729769BEFF54F3445D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-regression-final.txt",
+    "Hash": "23B37AD90894F7955A3D1F3FD6ACD9F92641530106565266E69F6C1DFE57CFFE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\catalogue-regression.txt",
+    "Hash": "555D390DAE0E2693271BA8D119BCCBFAFB2471EFE2067222E513FA856A64415D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\currency-fields-tests.txt",
+    "Hash": "5328E9A05358DD77D1CB4F2D4BACC2F4FD1683452282ACF1091A1EDDCC6A9992"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\customer-link-tests.txt",
+    "Hash": "02004E00E7FD6493F919F68D03F105AF7F33CC55B536EED98F17E3F2E17E1C46"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\detailed-finance-customer.png",
+    "Hash": "B6CDEF5808B80E8773B04EDABC3C99EF6357633C458EC5DD202E2B4388497C31"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\detailed-finance-masters.png",
+    "Hash": "B27A34508DDDF070241D1A1FAE71CC4E6340875E6192D20197B464265C31BCB8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\detailed-finance-mobile.png",
+    "Hash": "0ECE872D5CF1FCD99758E1426BFCA042FB51F1D0374E2E2D2E4B24E251BDA32F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\detailed-finance-profit-loss.png",
+    "Hash": "E8AE6B65857867E4BBC4F322AD93AE647BFD32F2D3E7DEA93D28DD1E41B9CAAD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\detailed-finance.png",
+    "Hash": "AFB8AE8C00C65CF635D8A511B56EEA604CE229FE7A03FC9E9F7362AA2C3478CF"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\detailed-pl-tests.txt",
+    "Hash": "4DD090C534BF1B3D6E998532F75480B9380AA86A768A1A2CC0AFD666CFA4B659"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\dispatch-regressions.txt",
+    "Hash": "A042FF5262037F27D3E254808212CC187E7829EEAAAD587736E2CA8B954E2546"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\dispatch-sale-tests.txt",
+    "Hash": "79FFBF9FC79E63C3B066098F4DBF60DA02E57C965AB5D0B5256B44F49128DEF0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\finance-error-tests.txt",
+    "Hash": "6A5C243080082C7F6E7466DBCBBBA32E3C6F38835ACA1FA9B73CF0DC1F15FF95"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\finance-final-tests.txt",
+    "Hash": "DA1C265C6F8B2242361C751EE4C4DCF752197E5B572272401D61EC455D9B2B81"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\finance-historical-test.txt",
+    "Hash": "D70DF339F8DD21D45636BFD3A78CE371C19009B46D62A542D85A9C2D66B9274E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\finance-masters-final.txt",
+    "Hash": "E3F4CA4932F799197C280C6A79031595565A4410B8BA583DD1EDEBA78949C6CB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\finance-masters-tests.txt",
+    "Hash": "3D27B179DC436E5811084B1A42E789B89EA82870B45DFD9F37D25003B406BFE0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\finance-tests.txt",
+    "Hash": "A418C3202FCA5935F27208277D3849FDCCC8D90EBABD34FE38B805D321CDE37E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\full-regression.log",
+    "Hash": "6A82878F439D220C4C635614F2449300DAB8C022AE26758679009DE64F8C828E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\ledger-edit-tests.txt",
+    "Hash": "4936AB91AEAD9E4AE6FE5D82D6981022D39B69AD2B05C2989987A35BCAB5E835"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\persistence-tests.log",
+    "Hash": "9FF7B019FDF9E2F471583A0E59147E56DF8D6691CD8182463ABE856223992991"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\quotation-ledger-tests.txt",
+    "Hash": "75D58D9B795EF7521F6D4C89AE609EDFFF9722C848DD416B16061F4FA0A9F679"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\register-404-regressions.txt",
+    "Hash": "1D8E540955AFFCBD0987C16EFAB5D2F6FB6E067484C0C0C33DD7044B041A3142"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\run_persistence_ui.py",
+    "Hash": "23CFB4CFD4DA6563B1FDEAB6B3AEB1067015101EBBA7B957695B3EAFC275931E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-baseline.txt",
+    "Hash": "34CB97EA21EF40CC88189725B4BE6D49EE3007EC9DDF7E1603F027A65ED8ED04"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-concurrency-final.txt",
+    "Hash": "62A2F98FB0C5BBB79F595997B398A0D277DE0713924F0C2B78E00584E7DAE06C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-concurrency-last.txt",
+    "Hash": "53F832ACAE9A3475DD9B9579583AA63BF9CBC67B304A44300AF66CC71890C76D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-concurrency.txt",
+    "Hash": "1D34DC2052D64497728B2C4FC6EAD89C15C0B7E9D32BD9D2787505639B412FDA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-db-preservation.txt",
+    "Hash": "50B99000BDF4C81CD825C0080917FF4D01775773B7ECC973DD61C5D0E4BF01DE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-db-timestamps.txt",
+    "Hash": "1FEC6CD7CB3F32D5CCBCB8237F21158DE82F7D7FF7D462FA18C84EBA8647A591"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-drift-final.txt",
+    "Hash": "A18985C66C965D3F178E97795C0C814616E89B42E6B417479200B1F35AA9C086"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-drift.txt",
+    "Hash": "A18985C66C965D3F178E97795C0C814616E89B42E6B417479200B1F35AA9C086"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-focused-clean.txt",
+    "Hash": "6ACC7228294688A3C7EFA77B1D70FDED253FF7A6A7B100EC38D5D0C8C442EA3A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-focused-final.txt",
+    "Hash": "3543C537BC66EEF877895378833FE54780A246C289ACAA72B97A3A13EBEDB1B4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-focused-last.txt",
+    "Hash": "4371F97C495B90E5424F870EBC4D167DB3A9AC0F7F969FC82EB0D32FC252EE0A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-focused.txt",
+    "Hash": "0F590189FE5FED767412DA472F9E93B34F358E021C170DF1072A3480EFB7AAF4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-graph.txt",
+    "Hash": "DAB19391828F784FC385D7D9698442316BDF387B519C88BC3CA88E891CC2AA4A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-regression-clean.txt",
+    "Hash": "4F2351A761D932D1A4E5C1C8A5E8637A484C8F1366A8121FE1716C9D7C890DF9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-regression-final.txt",
+    "Hash": "F0283AB19E80BC59307955F63C745FCC50F926F58AE42A53B06A611E71CA357E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-regression.txt",
+    "Hash": "98EDFA94518785AAAF302600D6002A27CDB20718FF9D4441F3F5BB4D9AACA529"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\sales-backend-system.txt",
+    "Hash": "CBC29BD99A79C0EA6ECC29A1507466E48959367470AC39B6CED80D7846B03D88"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\server-verification-regressions.txt",
+    "Hash": "0BA447ECB43100F21FF7E7B29C92FA36039D6EC5B70ED2B26CA86003835B61C3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-build.txt",
+    "Hash": "26FA1B400F18AFC79C8D154F3EA34069461233ADAE6339CDED8320BD0F958C69"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-accounting.txt",
+    "Hash": "4DCC97C421B9E4C80359BA64A10A8C8B72B95F48108CEF6BDD95F145AE87E3EB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-auth.txt",
+    "Hash": "A6625693031146981196532424D10F218F24D8CBAA9787ACF7B3E3AEB01219B3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-baseline-contracts.txt",
+    "Hash": "8A59A45D1A9F1D4E18A0A59C653B11443B7913379DDF500BBD8D2711B554E555"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-catalogue-integration.txt",
+    "Hash": "D370F6A52FF1532F236D29C328E24DCCE6E2AA679FAF282D6E02F0D185EF7F0D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-consumables-demo.txt",
+    "Hash": "B2878BD12B5D9CBA31760E707B1288F2E29E898DD4B4D75A66EDC3EA8D2100C0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-custom-costing.txt",
+    "Hash": "FDDA3B3556C5EC5053CA167598D6BA6EE2E2DEE517C861D034BD8FEF47FEEDCC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-customers.txt",
+    "Hash": "DE42FCD35F7F28451E0304A173283661A8B071AE3B30C5DAE0A860F71B0C0124"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-finished-goods.txt",
+    "Hash": "8193A3F5FFE30A8320C6E8B6276607BD9B6F1F56D2DBE4DEBA84D89299113742"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-integrated-operations.txt",
+    "Hash": "BA50418C44C87AB8C421D26D3A2FD38BD8EC4ADE6AAE36C45A04607BAD3C0A40"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-integration-connections.txt",
+    "Hash": "C93F1393997B62FF26D64DB1FB65C30D858FA31918C95D334BF55DF748673BA8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-inventory-workflows.txt",
+    "Hash": "B7D26C414C1E1BE108DE3E9AAE98BC1303BF214DBC630E68C1C8A489F27798D0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-job-cards.txt",
+    "Hash": "88C5D76D48AE1E6F256B72A677C73EA2F87CD7CE4C4A4B603E3831DBA5CF1922"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-job-drafts.txt",
+    "Hash": "91B09190698ABB06BEB2C33CA080C7DD0C9F07FD04829418C7CE4EAAE3AEB8F7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-led-finance.txt",
+    "Hash": "60AECE578C018AF824258E5D9F45F982FC861D7B6804452DAE64D807DF9A3D73"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-order-drafts.txt",
+    "Hash": "7D6BB8F235A2707DE35AB77FEF7C7B510146767B104BB921F915A2F13BEB6DF0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-procurement.txt",
+    "Hash": "3093E0ACE8F50C58078E87F6858CFF8D3AFFB5F0EA0EA156A7DA35E66BF71EE9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-production-workflow-errors.txt",
+    "Hash": "D1608205D4CCF29CBD5F5E3F6E888F224515F53C603DAC80305C7E0A1CD31579"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-quality.txt",
+    "Hash": "A5F043A53085DACB58063F893D52F859F075FF24318B020D3614B9FEE0306714"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-quotation-persistence.txt",
+    "Hash": "8343EC0ACB5CCCA7CC216828FE7BD760815C032376864E79144277C280AC9E45"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-quotations.txt",
+    "Hash": "184E4314C1D402125219301673DDABB46D465DBA97CBBAC73E057B84963E650C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-recycled-materials.txt",
+    "Hash": "0927318CA05D9C6843D556E020A389A7CD624F2E224321207BCFB884FDC08B43"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-registers.txt",
+    "Hash": "5D5D7DA7995FAC55FD95CA7DA643384536F037895E597E0D1DED6C16B7F5695C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-sales-fulfillment.txt",
+    "Hash": "06F7D5FFBCD91B2E198C9191E0DF09633467A92AAA56D3CD75ECF11E9BEFE7F3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-shared-entries.txt",
+    "Hash": "33EAAF857D21D634E53FE6539D86ED3B5F0CA1AFC8AD617FDFC4323BB5E72037"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-spares-openings.txt",
+    "Hash": "B343C0D6849507A22753ED004451A11A2AC5B118DB60DD2E35E784087AD89BC0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-check-tailwind-build.txt",
+    "Hash": "A170D33F8828B48B19678AA8002A2F1DC944F4D39D9DEA567404A8A107F7C233"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-concurrency.txt",
+    "Hash": "0CD94CC892122BC69914337A7BF83142C2BCEE598CA73D45D74D06DBBA74B6B4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-db-readonly.txt",
+    "Hash": "1329B1C450FC9FAE494F521E2D4C88CCD4B138832FF3600DBECC00109AA75E8C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-drift.txt",
+    "Hash": "A18985C66C965D3F178E97795C0C814616E89B42E6B417479200B1F35AA9C086"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-frontend-results.json",
+    "Hash": "95EC51CC088E90C277F711F139951A6E2C561ABCF81DA738ACD1805A2814E703"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-graph.txt",
+    "Hash": "631A4FD7FFF407BB79DF0C105AC95471AEDE70B7CDEE7BED8037B35CD38AF266"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-prepare-quote-diagnostic.txt",
+    "Hash": "20AE7F0B351E388AE9E64D3920C93B6A72A92B948682656DD449D0206EBD70DC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-preservation.txt",
+    "Hash": "95A8D1CEE0E3DA09C120911483E63AF33BD4DC7593B1E7144207B2105ACFF643"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-regression.txt",
+    "Hash": "804264245D4F20E59E23B20A37DBC256F009E8AA6DBC204342997B810337FADD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-system.txt",
+    "Hash": "CBC29BD99A79C0EA6ECC29A1507466E48959367470AC39B6CED80D7846B03D88"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-followup-workflow.txt",
+    "Hash": "90FA640FF44AAA83D2F09B023E26AE675B325F01D2B95A9723165602BB0B93C8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-foundation-results.txt",
+    "Hash": "8DD16086C6C08FB15626671039129334FE6ECC4ECBD8AF854C4F8D12C70AC2F9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-accounting-final.txt",
+    "Hash": "F5BB7D49D7ADD6F05DA4AFCDB31B6D9EF85ADD10888EA0199CF1C46EA7A36632"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-baseline.txt",
+    "Hash": "DBBF4CFB5223E68C4388123665F5372EF6AE378B89465072FB7B95A075ECD1B5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-before.json",
+    "Hash": "0929CC0F411297BA4066832140B229516F1F1B20808822A3A33E150E64F832CC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-concurrency-final.txt",
+    "Hash": "DFAB24BBEDBAD053B7DD11645F9C5BC90152A5EA7129E5FBB027982D2E56D11A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-concurrency.txt",
+    "Hash": "4C450EFE5BB5A883A021E9DF3C0AC79D41F3FEABDE52071A45163780745AB150"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-drift.txt",
+    "Hash": "A18985C66C965D3F178E97795C0C814616E89B42E6B417479200B1F35AA9C086"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-focused-final.txt",
+    "Hash": "421D398ECA951BA576DDC8EE83315069A4C9B2A58E5BD86621E6F2D49E8B9326"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-focused.txt",
+    "Hash": "C5971CBD695449D96A3D05EFD0857494C644F5B8E2D3540BB37C9C567337E177"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-accounting.txt",
+    "Hash": "4DCC97C421B9E4C80359BA64A10A8C8B72B95F48108CEF6BDD95F145AE87E3EB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-auth.txt",
+    "Hash": "A6625693031146981196532424D10F218F24D8CBAA9787ACF7B3E3AEB01219B3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-baseline-contracts.txt",
+    "Hash": "8A59A45D1A9F1D4E18A0A59C653B11443B7913379DDF500BBD8D2711B554E555"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-catalogue-integration.txt",
+    "Hash": "D370F6A52FF1532F236D29C328E24DCCE6E2AA679FAF282D6E02F0D185EF7F0D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-consumables-demo.txt",
+    "Hash": "E32291FB488F89994647E526A1F141D993DC570864A91965B5B9C67629B601B6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-custom-costing.txt",
+    "Hash": "FDDA3B3556C5EC5053CA167598D6BA6EE2E2DEE517C861D034BD8FEF47FEEDCC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-customers.txt",
+    "Hash": "DE42FCD35F7F28451E0304A173283661A8B071AE3B30C5DAE0A860F71B0C0124"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-finished-goods.txt",
+    "Hash": "8193A3F5FFE30A8320C6E8B6276607BD9B6F1F56D2DBE4DEBA84D89299113742"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-integrated-operations.txt",
+    "Hash": "BA50418C44C87AB8C421D26D3A2FD38BD8EC4ADE6AAE36C45A04607BAD3C0A40"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-integration-connections.txt",
+    "Hash": "C93F1393997B62FF26D64DB1FB65C30D858FA31918C95D334BF55DF748673BA8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-inventory-workflows.txt",
+    "Hash": "B7D26C414C1E1BE108DE3E9AAE98BC1303BF214DBC630E68C1C8A489F27798D0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-job-cards.txt",
+    "Hash": "88C5D76D48AE1E6F256B72A677C73EA2F87CD7CE4C4A4B603E3831DBA5CF1922"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-job-drafts.txt",
+    "Hash": "91B09190698ABB06BEB2C33CA080C7DD0C9F07FD04829418C7CE4EAAE3AEB8F7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-led-finance.txt",
+    "Hash": "60AECE578C018AF824258E5D9F45F982FC861D7B6804452DAE64D807DF9A3D73"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-order-drafts.txt",
+    "Hash": "7D6BB8F235A2707DE35AB77FEF7C7B510146767B104BB921F915A2F13BEB6DF0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-procurement.txt",
+    "Hash": "3093E0ACE8F50C58078E87F6858CFF8D3AFFB5F0EA0EA156A7DA35E66BF71EE9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-production-workflow-errors.txt",
+    "Hash": "D1608205D4CCF29CBD5F5E3F6E888F224515F53C603DAC80305C7E0A1CD31579"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-quality.txt",
+    "Hash": "A5F043A53085DACB58063F893D52F859F075FF24318B020D3614B9FEE0306714"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-quotation-persistence.txt",
+    "Hash": "8343EC0ACB5CCCA7CC216828FE7BD760815C032376864E79144277C280AC9E45"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-quotations.txt",
+    "Hash": "184E4314C1D402125219301673DDABB46D465DBA97CBBAC73E057B84963E650C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-recycled-materials.txt",
+    "Hash": "0927318CA05D9C6843D556E020A389A7CD624F2E224321207BCFB884FDC08B43"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-registers.txt",
+    "Hash": "5D5D7DA7995FAC55FD95CA7DA643384536F037895E597E0D1DED6C16B7F5695C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-sales-fulfillment.txt",
+    "Hash": "06F7D5FFBCD91B2E198C9191E0DF09633467A92AAA56D3CD75ECF11E9BEFE7F3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-shared-entries.txt",
+    "Hash": "33EAAF857D21D634E53FE6539D86ED3B5F0CA1AFC8AD617FDFC4323BB5E72037"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-spares-openings.txt",
+    "Hash": "B343C0D6849507A22753ED004451A11A2AC5B118DB60DD2E35E784087AD89BC0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-check-tailwind-build.txt",
+    "Hash": "A170D33F8828B48B19678AA8002A2F1DC944F4D39D9DEA567404A8A107F7C233"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-spares-all-checks.json",
+    "Hash": "95EC51CC088E90C277F711F139951A6E2C561ABCF81DA738ACD1805A2814E703"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-spares-build.txt",
+    "Hash": "C9590299FC85F079F52D06EF0D9266618F053F0CCAC83D70474E01FC06E7AFBD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-frontend-spares-openings-check.txt",
+    "Hash": "B343C0D6849507A22753ED004451A11A2AC5B118DB60DD2E35E784087AD89BC0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-graph.txt",
+    "Hash": "631A4FD7FFF407BB79DF0C105AC95471AEDE70B7CDEE7BED8037B35CD38AF266"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-integration.txt",
+    "Hash": "5BEE588A7A08D186AFF6B772A859E440CD9F93E33EBE02D7395F8AF7CA18684F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-regression-final.txt",
+    "Hash": "239109629F808E6AAFB5A4787AEEC022E17C71374BC20A8D5D9AEDA419D0DDAC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-regression.txt",
+    "Hash": "C062B8B91E14DE6C85F869C8019F6B74D189919B8453E9605B84D3CC8099E4A5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-opening-system-check.txt",
+    "Hash": "CBC29BD99A79C0EA6ECC29A1507466E48959367470AC39B6CED80D7846B03D88"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-regression-final.txt",
+    "Hash": "88C32AD0D9DB7529987A064CFEB2CDC6641456AF9CF8834E9FCA3EBF4C8691BE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\spares-regression-results.txt",
+    "Hash": "AD027A4C48163D3E1AA15BDB7425BBCE3377692878657A70B90737432D12BBE2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\stock-in-role-tests.txt",
+    "Hash": "8F99D49C52FC1B489DAB2C4AE806E15DBE9DE089351127121C3DA65568D27986"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\valuation-unit-tests.txt",
+    "Hash": "9B8E3DE1B9F31E354AA65521B730CF48E413306E38F6B27DAA73646B6BBF64DC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\voucher-pdf-tests.txt",
+    "Hash": "44F082969818C4B74D55D5CA16E0E386099673BD984DAFCF89971F6A78F4164F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\multipage-1.png",
+    "Hash": "BEFD34EFBE9BA6C3FD8D1BAA085D6D9268F9CDCDE57F118BB283219E28CAED34"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\multipage-2.png",
+    "Hash": "501576FCEE926B638040C700F8DB454F365C9E47F0F59EF0FB753503137CFF18"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\multipage-3.png",
+    "Hash": "424C16353F721C2DB69A11A25C671B62AF62BA70005F9D4C39E83ED0A1589C04"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\multipage.pdf",
+    "Hash": "0674903F42A1408CF811C01E5538916B40AB669CE87BD06D065500869AC8A63B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\order-quotation-preview.pdf",
+    "Hash": "5C2E93802DF8A8FACA79E30D6D82542D7B62C0CE4179C78390FE3F2ECD8A1CC8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\order-quotation-preview.png",
+    "Hash": "2D2E38AE842BED954338007C5F4D51F42E409D81344E18A3FA87D71A2C580D3A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\voucher-layout.pdf",
+    "Hash": "B209AA837B6C8B635723634FA187803C169050B5B9D471380FFC78D15998B99D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\voucher-page-1.png",
+    "Hash": "FDB0D3978D6B9887AB791067FF4E74D182356104C601295E4FBC482168986A40"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\tmp\\pdfs\\voucher-page-2.png",
+    "Hash": "7C9E98D05A84611EC9EF16C293943379714B2C406E00F18F00F4833E928B97F3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\charset_normalizer\\cd.cp312-win_amd64.pyd",
+    "Hash": "2BDBC0805F85565D76F8D6166E451BFAFA6D5490B06B36C9F423CD0102B4F149"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd",
+    "Hash": "B08BE5D29125F39A92E22D0ABE4B9160753F7A790FFFD07258319A8E16394AFA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\apps.py",
+    "Hash": "F06F477AD5375813437D729FCD87F25E367EF97DE5A0192441207BC5F95E225E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\checks.py",
+    "Hash": "14FCD8A2D811CF1A966039E320AEFC6E04007C1485A9E241D3844354CC658678"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\finders.py",
+    "Hash": "DF09EF42455A3B97F0C69390BB96096AC7FB49B76F81D26F8336707FD46D31A6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\handlers.py",
+    "Hash": "96B3C89E3F0437DFABC7367144217DC9E317B4D9A5B030BDA3DFAA25D7C502CD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\storage.py",
+    "Hash": "EDB51AC5D816D4E6419CA7AD5F27A99450949967163F63810BD4B1410D0B5618"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\testing.py",
+    "Hash": "E17F84B4E7D79F0909032153F2A7B81F8B1B5532A033AE6494B52D63CD4A1E21"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\urls.py",
+    "Hash": "A300CCFE17723DE466C58C598AC48CA299709F35ABA6D23F5BCFB72B67FB2130"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\utils.py",
+    "Hash": "88F5C7034C8C5EEDFB3D0C02AEAF738E14B38D97FFCC405727E7471ACA99A17F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\views.py",
+    "Hash": "997EF4A1E8C153614F67DFE27642341224419138CA7020FB249DF8818C613363"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\management\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\management\\commands\\__init__.py",
+    "Hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\management\\commands\\collectstatic.py",
+    "Hash": "160B0DA0A63CA5AF40E2C432B6F9F2775F6ACC562D3A4610FF006D8031102E2F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\management\\commands\\findstatic.py",
+    "Hash": "3F5D8617EEBC6C8D5CB15B632F42760F029C117F093417851E691181BA659EE2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\django\\contrib\\staticfiles\\management\\commands\\runserver.py",
+    "Hash": "53FEE8098F0B257E499F5C6532FFAA178110A14BE54F495D07913FD2C26646DC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\PIL\\_avif.cp312-win_amd64.pyd",
+    "Hash": "3C31D65C8B3B4C91AC2838D5C843A6B2479D775B6904FE654D60B56D41772411"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\PIL\\_imaging.cp312-win_amd64.pyd",
+    "Hash": "7140F56D38DD6CD51512F8122386BCB914C5DF2A82EB5F719C973527D9213CEE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\PIL\\_imagingcms.cp312-win_amd64.pyd",
+    "Hash": "2640857CACE64D69735BDCAA3987E9AD70F85168ABC1A8662079C77AC44B5301"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\PIL\\_imagingft.cp312-win_amd64.pyd",
+    "Hash": "985228F6086171978ABB5D04F2F625C489FDC9D7F0A92F2077A621FF184A599E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\PIL\\_imagingmath.cp312-win_amd64.pyd",
+    "Hash": "01C6F9DE6F0D6ED46D1DF1D4A9CDF47E399306870453F26A5326368F7DB0B3AD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\PIL\\_imagingmorph.cp312-win_amd64.pyd",
+    "Hash": "E74547CF128EE13D81D7C4EF6D5BE079F230062B5A8E9EC648AFDC9CE228AF39"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\PIL\\_imagingtk.cp312-win_amd64.pyd",
+    "Hash": "E1C87F73E96D2269395624D03B3808300F4B0F795F5FAD1ECC3D1492E5DCC7C2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\PIL\\_webp.cp312-win_amd64.pyd",
+    "Hash": "BB9C64D38A6E4857BD3358E14DBE6CF3A4593B1EFCD1185FDBA1EF8931550896"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\psycopg_binary\\_psycopg.cp312-win_amd64.pyd",
+    "Hash": "C2720DE84FA4B91CDFDAADF021CFFF5FECB5CD39E4F4168A26DA888222C2CC56"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\backend\\venv\\Lib\\site-packages\\psycopg_binary\\pq.cp312-win_amd64.pyd",
+    "Hash": "A2013A7347EF363CB7423EE005B50EC0E459A24156458366E181700F7F26A98E"
+  }
+]

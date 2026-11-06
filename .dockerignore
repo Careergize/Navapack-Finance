@@ -1,0 +1,12 @@
+*
+!backend/
+!backend/navapack_finance/
+!backend/navapack_finance/**
+!docker/
+!docker/Containerfile.app
+**/.git
+**/.env*
+**/__pycache__
+**/node_modules
+**/.venv
+**/env

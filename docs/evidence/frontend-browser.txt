@@ -1,0 +1,1 @@
+PASS: Edge desktop/mobile shell, denied/loading/error/retry states, diagnostic 503/403 sanitization, no automatic diagnostics, revocation on focus, stale user-response cancellation, logout and unavailable even if fixture advertises availability. Synthetic JWT/API fixtures only.

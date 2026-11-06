@@ -1,0 +1,189 @@
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at SalesNavigation (F:/WORK/ERP/frontend/src/pages/Sales/SalesNavigation.tsx:14:28)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at SalesNavigation (F:/WORK/ERP/frontend/src/pages/Sales/SalesNavigation.tsx:14:28)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at SalesNavigation (F:/WORK/ERP/frontend/src/pages/Sales/SalesNavigation.tsx:14:28)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at SalesNavigation (F:/WORK/ERP/frontend/src/pages/Sales/SalesNavigation.tsx:14:28)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at div
+    at nav
+    at SalesTabs (F:/WORK/ERP/frontend/src/pages/Sales/SalesTabs.tsx:17:22)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at LinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10604:5)
+    at NavLinkWithRef (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:10681:21)
+    at SalesNavigation (F:/WORK/ERP/frontend/src/pages/Sales/SalesNavigation.tsx:14:28)
+    at Router (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7134:13)
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+Warning: useLayoutEffect does nothing on the server, because its effect cannot be encoded into the server renderer's output format. This will lead to a mismatch between the initial, non-hydrated UI and the intended UI. To avoid this, useLayoutEffect should only be used in components that render exclusively on the client. See https://reactjs.org/link/uselayouteffect-ssr for common fixes.
+    at MemoryRouter (file:///F:/WORK/ERP/frontend/node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs:7044:3)
+PASS: Sales projections/calculations/filters/CSV, immutable snapshots, independent creator/editor/submitter review denial including Admin, authorized distinct reviewer, QC-only inspection with full history and no financial/stock effect, scoped QC navigation, company/tax/reference print content and DRAFT/approved-preview watermarks, disabled official PDF issuance, active navigation and chart values. No backend writes, storage writes or stock changes. Native browser printing/interactions are not covered.

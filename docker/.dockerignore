@@ -1,0 +1,5 @@
+# This file applies only if docker/ is used as a build context.
+.env*
+*.local.json
+backups/
+evidence/

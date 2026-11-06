@@ -1,0 +1,15 @@
+ M docs/BACKEND_TODO.md
+ M docs/BUSINESS_RULES.md
+ M docs/CHANGELOG.md
+ M docs/DATA_MODELS.md
+ M docs/DEVELOPMENT_STATUS.md
+ M docs/sales-management.md
+ M scripts/check-sales-management.mjs
+ M src/context/SalesManagementContext.tsx
+ M src/lib/salesManagement.ts
+ M src/pages/Sales/CreditNotePrint.tsx
+ M src/pages/Sales/SalesDocuments.tsx
+ M src/pages/Sales/SalesReturnInspection.tsx
+ M src/pages/Sales/SalesWorkspace.tsx
+?? scripts/check-sales-api.mjs
+?? src/lib/salesApi.ts

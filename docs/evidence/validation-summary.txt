@@ -1,0 +1,14 @@
+Validation completed 6 November 2026 (Asia/Calcutta).
+Pre-change full backend: 344 tests; 338 passed; 6 pre-existing missing-prepare_quote errors.
+Post-change full backend: 358 tests; 352 passed; the same 6 errors. See backend-regression.txt.
+Focused backend: 24 tests passed; final output in backend-focused.txt.
+Django migration drift: No changes detected. No shared DB touched.
+Frontend focused SSR/API/preservation: PASS (frontend-focused.txt).
+Existing check-auth.mjs and check-led-finance.mjs: PASS; one run emitted HMR port-in-use warnings.
+TypeScript --noEmit --incremental false: PASS.
+Production npm run build: PASS; large chunk warning (frontend-build.txt).
+Synthetic Edge desktop/mobile: PASS (frontend-browser.txt); mobile screenshot inspected.
+Finance preview baseline: 7/7 passed in audit; preview untouched.
+Git diff --check: PASS in both repositories.
+Live Frappe authenticated connectivity/company/native authorization: UNVERIFIED.
+No new migration, Docker operation, shared DB mutation, secret provisioning, commit, push or deployment.

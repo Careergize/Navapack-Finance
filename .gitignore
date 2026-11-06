@@ -1,0 +1,52 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+build/
+coverage/
+
+# Local databases and logs
+*.sqlite3
+*.db
+*.log
+
+# Runtime and backups
+/docker/upstream/
+/docker/build/
+/docker/backups/
+/docker/evidence/
+*.bak
+
+# OS and editor
+.DS_Store
+Thumbs.db
+
+# Local credentials and generated runtime artifacts only
+/docker/.env.local
+/docker/*.local.json
+/docker/upstream/
+/docker/build/
+/docker/backups/
+/docker/evidence/
+**/__pycache__/
+
+# Local baseline verification directory
+/common-login-baseline-check/
+
+**/.git.backup/

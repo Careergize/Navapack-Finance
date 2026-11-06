@@ -1,0 +1,910 @@
+[
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\.env.development.local",
+    "Hash": "C3F896C8604601597B8DCE872F9768E7C5FADCB0379B39757443B554D2FC9200"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\.env.example",
+    "Hash": "AE0332C549153FBEF8D9C9FC06EB6B810EADACEDB56785EAD47D1952820E441A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\.gitignore",
+    "Hash": "2EF156732825E7D066F609F7BF5946999A5AD2A3274E27871CDEB2C14C0FFD37"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\AGENTS.md",
+    "Hash": "E6EEC2213179026B0EED721AFEDDF2EB9C29A850C2D852302D9710B2C87D4C67"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\index.html",
+    "Hash": "0EC6DAAE8F43873BCC9D9B6AFB4B58B1B34CC21D4A8F5E3C7CA4CD4884A8B1E4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\package-lock.json",
+    "Hash": "6EC375A0EC667A7EC712E112692D7EA0447A366B4D5BC78AE0E21E64A8745655"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\package.json",
+    "Hash": "A9F89805CF5EF4D96E897BADEB5875BD1F5040622359416E2B16027203772540"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\postcss.config.js",
+    "Hash": "9DD791AD9C0238477D84D4E06C0CCFCEEBE8DCB37DCDB581F5682C5AD42FC77E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\README.md",
+    "Hash": "89BEDF4120EAEE4053DBCB797C1C3476C8F677A98F287803157062EBB9B31249"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\tailwind.config.ts",
+    "Hash": "6564E5AD5A2B353067C72E975F4489D7D54EB5BA602D3950393A614E7D3D3EB8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\tsconfig.json",
+    "Hash": "064CC010E41EDC10458779E9E1A6850D63EACEB07A539B35EBDDF79FA4EEA67B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\tsconfig.tsbuildinfo",
+    "Hash": "8BBA9A10196FAF08FC92D3DD42F6A1EAAC980C8D87DA33564826AFC82D0CA11B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\vercel.json",
+    "Hash": "14B95599E5DCA449BD7EFDF5CF240C91DCA33418B6BEB8E0F4BB0774ECF64E44"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\vite.config.ts",
+    "Hash": "AF302D31375A06AA9FE5EF2BC189EABC0335F09A7E141757BA90BBBF8C43E9DD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\ARCHITECTURE.md",
+    "Hash": "51FA12CFF13961A77C297ED1370DAAC5FC3C9F4D678B7D97A757F8E7F04583C9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\BACKEND_TODO.md",
+    "Hash": "6FF66A86ECCC69B0521FB49A649850FB717CE0428BC22A8D8675A86973C52C3E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\BUSINESS_RULES.md",
+    "Hash": "B72E22DF24357A34DA260DEE96B9A0534392AB7AFB5A44FDD550A20492A12199"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\CHANGELOG.md",
+    "Hash": "3CD35019E7FC101B569B0ADB22DF7B74F82D496625FF57DEB2AEBF64C1C2EC83"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\consumables-frontend.md",
+    "Hash": "C801E19452452328B8AD879CD49AC60D78228C286ECB0CA9608DD31A8CE2C057"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\custom-costing-routing.md",
+    "Hash": "66C8E623537FC865BAEBAB0D82C7277C78901D2D607BDCDF7AAF0F0C22A2A206"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\DATA_MODELS.md",
+    "Hash": "CA5DC963018EBFD7A90F71BE3142265A6556D767AEDC497B0D04836FFD280C7F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\DEVELOPMENT_STATUS.md",
+    "Hash": "9ED334CD794A2E80FAA3C5992F11692F3FCB62F1FB63648E2EF4E2F379DDE1F9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\finance-integration-review.md",
+    "Hash": "6E86E587FD176DE8A64BBACDD38E24D218D8EEAB8EFB401E9E69459FF41E36D6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\finished-goods-reference.md",
+    "Hash": "B5468BB1D471E390CD93B5C9A12934B2FF42408CA0C7F7F3A1D6C73DA901E009"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\quality.md",
+    "Hash": "1988628238B8E860481A1F3DC4AA6AECD42BD35DA09D0B5814279443FD695892"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\quotations.md",
+    "Hash": "2B19CAEB664BAA090B385F1813644A00E44977655C41227875EF8C8D9FC98F7D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\recycled-materials.md",
+    "Hash": "49EA20F32122114B9C0674EF6868C69D100A112B050B867E92FB2B69C1BEC330"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\recycling-purchases.md",
+    "Hash": "E22AEA12E357257AA4F11B28CF3269032C1565141CEEB201320B007BCB86353F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\sales-fulfillment.md",
+    "Hash": "E2AD2BD3449FAFA0C3ACD07F335F5074313B6721845E9B917DF6AFD74CF2D7EE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\sales-management.md",
+    "Hash": "59C15ADF3D93235313A36A66B074B23454A258797F8A7FA5630E40DC7B71ADAC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\spares-consumables-implementation.md",
+    "Hash": "82CD5CE8ADE6B07D6A4AD4053F49E024FE6C580923114CE33FD4F1B1C7BF313E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\backend-planning\\API_CONTRACT_BLUEPRINT.md",
+    "Hash": "55E2F9D2A9E3492B61B12F71A256CFEAD88F71D94545ACA37D969778F53EF835"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\backend-planning\\BACKEND_DATABASE_BLUEPRINT.md",
+    "Hash": "A76E72FEC97739A3C7AD20E9633B46058AAB3B8F464EBABD0DCDFD19E02F60D4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\backend-planning\\BACKEND_IMPLEMENTATION_ROADMAP.md",
+    "Hash": "357CB6294F4E694F803BC72564A1C21F6BB75356A73625405C19BE6F24A03FDD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\backend-planning\\BACKEND_READINESS_REPORT.md",
+    "Hash": "20D99277D240B1A6AEC0FA423A8F9DD139127B283C5D605153C8EAA51C62EA98"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\backend-planning\\FRONTEND_ARCHITECTURE_AUDIT.md",
+    "Hash": "72BF9799B7AF109F7297A9804B68998123041F5BDF070D143CCE3277645A5C46"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\backend-planning\\FRONTEND_DATA_MODELS.md",
+    "Hash": "7FD00C6DC2925C971F7562CBFB9BA1B2462A96F4A7912B18F8CCF1F0199EB281"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\backend-planning\\FRONTEND_WORKFLOWS.md",
+    "Hash": "A7AAEA764CCE22B61689A461EB224E6D9D8C1F8F156D060C4DAD7C1AD30BE3BB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\docs\\backend-planning\\SOP_FRONTEND_GAP_ANALYSIS.md",
+    "Hash": "D10A45648A08E9419E2E9D7ED1560EAA1CC08BFEB56013BD09B5F98746826256"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\public\\assets\\Nava-logo.png",
+    "Hash": "5AFD871F621503D28A711E727EBC407CB3FBE91C493B836E7975158E8DC82825"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-accounting.mjs",
+    "Hash": "D226EC3C2594A29F47189E259B0C4B35309E93CA607CC51D19A590B10B358E20"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-auth.mjs",
+    "Hash": "AD00C5F9ECD90C3D40B30E8EBD4423EE95EDCFC282F58A9CC5F695945663B5A7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-baseline-contracts.mjs",
+    "Hash": "4FC4FA2215A50D089420C0A53566D46FBDD3F9C5D6480384A12CD6A121045B12"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-catalogue-integration.mjs",
+    "Hash": "8C99EBFB3665721FBD53455CE689BACF84CAD1BE6E6FB8C4B2E8ED950DC98E75"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-consumables-demo.mjs",
+    "Hash": "36803A7C3242F344511D2ED8FDD0F9D85F8610B1FFA95B1AFD7BAA89BD432CBD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-custom-costing.mjs",
+    "Hash": "BB87F3483923EC1D86A553A38C7B6CAEF24B4F7693904E342D20A1886B55E580"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-customers.mjs",
+    "Hash": "0AEB62CF6D99FB9FFB2DF11AA782D4DE36EEBAA41920E1125688880FE64D2278"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-finished-goods.mjs",
+    "Hash": "811979EEFDFFDA3C37405F976715B4EC2902D1B9ECEE942E2851CDC1716DF3A7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-integrated-operations.mjs",
+    "Hash": "2C9AFC79F6EB7F956A90A9C5CEFF31B7FD7A204DBF9FCB274082615F1F65F89A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-integration-connections.mjs",
+    "Hash": "042B34D8B5FDBA1309EE39DE5D1174865C8866B3D065E08C3F5D5CC20B66223A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-inventory-workflows.mjs",
+    "Hash": "6E4FF7F10773EC9196F8E1536519825C1E5E2A4A0673153BE42D4815F75B8699"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-job-cards.mjs",
+    "Hash": "778F860139B60F37DC39E3100751A92466EBA8DA4164D4939077ACCCF18922C8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-job-drafts.mjs",
+    "Hash": "2E3C55E2A7E343E39825E48CEB74EB0D0F4CFABD5FAEAC3CCD644A6C5FCA1209"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-led-finance.mjs",
+    "Hash": "69C3623460E9E432CC661CA9FBCA8AD145FC5BDE04849961AEECD558745EF698"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-order-drafts.mjs",
+    "Hash": "637A8771774712705FEE2DB98E51B7E278BCC9700B68A275ACFBDCA9A24C9A79"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-procurement.mjs",
+    "Hash": "A1E7A4F1750B07A61FF5B504A826ED07784E8A117D6FD1E01545C15A9364570B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-production-workflow-errors.mjs",
+    "Hash": "504BCF68AC9A6857F2711ECCDB5F08B0571A9823F1063BDFD9758588B0692E0C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-quality.mjs",
+    "Hash": "3F904F76A17E0E4B65757F0B1944396B7418CBDB4C75D0515E3928458EC54906"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-quotation-persistence.mjs",
+    "Hash": "142C548197EE856D47B468D9ED0A7BE99CECCF80860A0385505E882A8D83A41B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-quotations.mjs",
+    "Hash": "F39B68B28BBB3741F8996D25EA8AAB0B5C55446885F8B3A4F933C7C88442EF71"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-recycled-materials.mjs",
+    "Hash": "B7B0CB502E838BC442FD6F390DDC300F2965181C2AAD4B0B837BFD05562979B8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-registers.mjs",
+    "Hash": "11B7DAB5D5A39CB69D3263D19B4C27A23C2BEE701F8DD0A97C42B996BE0668B2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-sales-api.mjs",
+    "Hash": "859FA2D620922C08EDEF05D78D83ACAC01989850347ED508001926F73512B375"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-sales-fulfillment.mjs",
+    "Hash": "382A7EED03D679F8E1C45359F602F7DDB2C5DE0AE401929DAD2BA812AAB97DEF"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-sales-management.mjs",
+    "Hash": "C4BC8D414E41802ECA210DD5FCFC0AC4BCEAD6B91457947B3648F103F25B0E7E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-shared-entries.mjs",
+    "Hash": "92383EF49176BDFEFCFE5BB29DF61B242571621E2A117883D73DB29BE35133BA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-spares-openings.mjs",
+    "Hash": "A230014F630862A1A16BEE7D63696583C6A53F6264A39B4CB3FF65BAC494787E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\check-tailwind-build.mjs",
+    "Hash": "B7591D1B13B146CD192C5F219E70EF765ADC5DA7BE4BAC873107DC2B93F52075"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\extract-finished-goods.py",
+    "Hash": "CAEE98240C5792F327DD6A4EA5BEDDD83FE78F574F883E80CD13A42BE481EA6A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\scripts\\extract-raw-materials.py",
+    "Hash": "573BEB7943B3CF73B699736AF2E26D28D7DC3E83BF82F3B6B951FFB43ACCE31B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\App.tsx",
+    "Hash": "C7A37ACB7ED32CB8CE347309BF6BE3E36DF0F71DE32DCA238FC9EACD04477BC9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\index.css",
+    "Hash": "9614772295F5428F37B915A481842997098FF4B41FC0C8E63852A3C6DF8E36B8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\main.tsx",
+    "Hash": "1CD6A50EC1FC9EC0DFDE265F0FB723A7EE8A9E323106E4302293C0DB5E90C420"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\vite-env.d.ts",
+    "Hash": "424FAF9241DD699DDA995B367ED36665732DA1E6EC1F33B2FD40394488ECAC92"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\GenerateQuotation.tsx",
+    "Hash": "D0CE2682A7C3817363E9BC200B4CA87F8EFA8837F8AAA8413A2FE85D25128366"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\LEDFields.tsx",
+    "Hash": "6290235461AFFBF06750F9F4406A9B052BF0D48DA6DA648DCB9662E4E077337F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\ProductionRuns.tsx",
+    "Hash": "D3EF0D4E6E08C509945FB915822449D732360B9AA1CD292F97406BA3906A8B1C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\ProductionTimeline.tsx",
+    "Hash": "FCA1632057E6CC8CC85A8E66A36AFF37FDDFC87A2C4033491041A3BA65275EC8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\SalesSummary.tsx",
+    "Hash": "F686B2E991A03049A27534BD3A902736EC18E6CE7A9F72FA8DCCADA7D319FBBC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\StockIntelligence.tsx",
+    "Hash": "35D0EABD1090ED8F007A9CA75E251506EE2DA7993EAA774686D55BC4AB89FF3A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\layout\\AppShell.tsx",
+    "Hash": "79D626369B7A67679361A21DF20DFB6D8E7674309B92D2EF7E8E1FE13D0F2EAB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\login\\BrandPanel.tsx",
+    "Hash": "307A546AC46B3AFF7D99368FB8A8FCBD596ED1B091B21B4950D117689577A061"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\login\\Button.tsx",
+    "Hash": "7D43404ABB15CF12121CF51509EB2FBFF427BEA8802F75471CD81B64A6AD1088"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\login\\RecycleLoop.tsx",
+    "Hash": "872DBBDFDC59A24E3EC94089018C33F80EEB837ABDCBB92AB641DDE0C1A1B4D6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\login\\TextField.tsx",
+    "Hash": "E22EB915158FE761435454CC44E9F3FC47ADD17B8FE8765B00F17966268DB652"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\login\\WovenBackground.tsx",
+    "Hash": "C52AD65A3D1B3FB8CAC391BCF98D2EA4465F362FF0522DF798C7A24A47C63B34"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\ui\\Card.tsx",
+    "Hash": "29AFD347089745154E4F26F97BC0E7D17C3B0E251F827830700BCB963E6BE6C4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\ui\\ConfirmationDialog.tsx",
+    "Hash": "3371B31A330BE50EF200CE2DD7A140EA69BBCD54548E07848FE31A141F46C957"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\ui\\InventoryMovementModal.tsx",
+    "Hash": "725914B8B6284F45A0559C8260FAD6CC3D1326B327A47376F555DAE0A93ED89C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\ui\\SearchSelect.tsx",
+    "Hash": "D9D5BE7140CE159238982D6E30C48AF3DFBD6AEF3C4662D207ACD2DEB351453C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\components\\ui\\StatusBadge.tsx",
+    "Hash": "A959A4484820D584B7F4AE580C5A03A20BAFCCCF875565C04817B0D99DE69CED"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\AuthContext.tsx",
+    "Hash": "BD27431CCA98E473184B1C4FEAB3D907A468D1FD10A8126382C631E63C7DE9CB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\CommercialContext.tsx",
+    "Hash": "D95D5B566A114A4BD4C70A9AF3B8924EB57CCD0F9514E37300C90F596B4B62C6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\ConsumablesContext.tsx",
+    "Hash": "D9A11ABF3B42B24510EC0C221B9CBEF8106ECA4ABD20F42FD8611A207F461DAB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\CostingContext.tsx",
+    "Hash": "F97D4E8EEBC32FC9C2BF2352F928526E1D0A0BBA8A112214E0519846A2BC205D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\InventoryContext.tsx",
+    "Hash": "65EC37E9C2E93D2290F6F797A59172E0A919A09F4AD0E5C64D8FDCDED8FF608E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\InvoicesContext.tsx",
+    "Hash": "28E89C055C00F10DA6FC4214969005859243DD1F6044C2AA9B536FADBD449FEF"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\JobCardsContext.tsx",
+    "Hash": "9CBEA82EC4A83B3CCBCE551883A7D56BE8628A6FDE38A57BC50731A51ADC2FA5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\ModelsContext.tsx",
+    "Hash": "ACBD265E34778209AFA7D9417CDF62AC8D53B5D96C6CFAD32C61C369EDCF90E2"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\QualityContext.tsx",
+    "Hash": "3C9A4AE15E1BA4D8ED13D54DD76038DA9C3374EDD490B2709E38E705142905DB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\QuotationsContext.tsx",
+    "Hash": "1FA0CD4E488AE2229E36A7F0E4DD82609E707A4966E77AEC76A82A70EA41AA55"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\SalesManagementContext.tsx",
+    "Hash": "039FA66518AD8DEC793900EF61B2691F6279CBA0EC21EE5EE8CE74665030CF6C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\SalesOrdersContext.tsx",
+    "Hash": "298EE0F7602DE9C484ED9E8E40C2E61B4863CCF32006164BB306AFF12DC060C6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\context\\SharedEntriesContext.tsx",
+    "Hash": "8FDC61A31A49126BB53A3F4AF3C125F8880C223601212FDFC314B4B2A92FFB22"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\api.ts",
+    "Hash": "D416DDEDD2CA135C3CBC5E3846DE495281370CAE2D2A4BA0DFF8ABD71E2277FD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\authSession.ts",
+    "Hash": "8C5B1D38323F77A89BBDBA1961E8BC2B73FFE6A43BDBAB76039B59508F3A722F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\catalogueApi.ts",
+    "Hash": "2D046BDBB0145918C15C466477B692887C99C0214F5E3E7E4CCB5E398E36AA6C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\commercialPricing.ts",
+    "Hash": "C47CDE6BA4B79FA655D1BD1382B38A1780DC9BCE66D0C1FB57EF685B373EAC0B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\consumableData.ts",
+    "Hash": "E4D50727F1028F58702EFA317B5316E0614A923E715A0681491549910A9F0D2A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\consumablesDemo.ts",
+    "Hash": "DA74719E6CA9F2AB718610C97E9A6413E7A4C3EC69C670AD9D4AD0C350A4DBEE"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\customCosting.ts",
+    "Hash": "DC5976E5066C039EAEB1333F66CEBFFAAAE6DDBB6822910D294EE268D0959D46"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\customersApi.ts",
+    "Hash": "1490F954F84512DB38C60BE2A426641B63D280D5C85E4FEB9F0A6EBEDEAC2932"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\demoAuth.ts",
+    "Hash": "AE1BAFC0E9D8E571D4CD405BFBAFB21CBF576C2A56F3A43C343648A28BD23D2A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\finishedGoodsData.ts",
+    "Hash": "A2F33EE1F0A5639C5B2695159D030D939635B08C3531921AC28CA9DCBC0801CD"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\finishedGoodsReference.ts",
+    "Hash": "0B475FB5ADB255947257C6CB503FB414B473CE3413376032CE475BA3668B4FFA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\fulfillment.ts",
+    "Hash": "6AC8D6AF101AE95D92920CB0068A961AA3DC8822A1B0E28BD38CD3AEEB256301"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\invoices.ts",
+    "Hash": "E744D583D01A5A31FC48707978FE06BCE74CA93CC5EFEFBF909AADDAA87E82E4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\jobCardDemo.ts",
+    "Hash": "C769CE36963106CD468181AC29D174ADD7746CDF33A7DED4DE306FF09AC0321C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\jobCards.ts",
+    "Hash": "2840A9E89A9C6CE61A3A9F62FBBA51370D85930FF33B8ED6291C45F6EB0CBC74"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\jobDraftApi.ts",
+    "Hash": "9AB283A50995135D7C704CF4362E17503B8715D65824B5D8DCA51B58AC99C15A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\jobPlannedCosting.ts",
+    "Hash": "7768DBE3C0E84553BED41D8FA220757AEC6D09DE957A8A6AE084C03CBC4B7752"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\led.ts",
+    "Hash": "654D4C3B5B97D31B3D70C8378C66A84678CD9CCC8CB2430A217038F7AB97887B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\mockData.ts",
+    "Hash": "A28F69700D3891A3F2C198F2ACF03A07DE8F14D2CC7D8146F3F1BD910999561B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\operations.ts",
+    "Hash": "9E730E7A1B5C2704DB3ABD0BCD4F3F66756F13DED33A9F9D6AB768DBBC60B99A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\orderDraftApi.ts",
+    "Hash": "D79378C9AAAEC6A2C78D5B5931F1EFC25D1E56EDF38B272F45249D02AFF535D7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\orderDraftEditor.ts",
+    "Hash": "C43F042822F273E3D9ECD3F7D883F3ADED82DA723A762298D92C36F8BEDB52FC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\parentJobCards.ts",
+    "Hash": "58A31BFF6E8C29063F0C957DDEAE1531E6C611B82FA10357DE9580A09256672E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\procurement.ts",
+    "Hash": "64BB832BA2ECF37E49AA64BDB4863CF38108F07024BEABA2BFF133C5E640AF26"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\productionRouting.ts",
+    "Hash": "1026103AAA3D27267F7392BB39EBA3A8A157723E62F3EFC1065D4DEE66F0762B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\productionRuns.ts",
+    "Hash": "06853DA3C7CAE8221A1B5FF81FA64597B5630865DC73CAE60C766CA5566AE301"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\productionWorkflowApi.ts",
+    "Hash": "49EC4D62EE54376E80EAC98EFB6B5F8A31345D35E389065C43BC997D8DC31AE1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\productModels.ts",
+    "Hash": "FF5258DDC6A045CE40A3322A665E47F3A50808A98AE174EDF1785A83EA5F3B78"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\quality.ts",
+    "Hash": "93A6973671C0891260C072085FA9847E37F478BCCDA300480CA4BFE267E34AE7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\qualityIntegration.ts",
+    "Hash": "862D92A6C72FE364A4FE25DD4C8618914420866B420975F8F479FE1A8823C493"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\qualityReports.ts",
+    "Hash": "8D8AC24C85EAF161347B188F8E5DD611D6978CCC6CC7BEDD775DC44E5C2C475F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\qualitySchedule.ts",
+    "Hash": "8E2771DCFAA81FA0346B9916363C3E03C534A015C0F97C0E5CD21624735BE8DB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\qualityTemplates.ts",
+    "Hash": "60CC9792EC2170A67DAAF587CEA573D40B799BDD70307636E45DE1F027597DF8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\quotationApi.ts",
+    "Hash": "A74864F6029D59AE918B3B210A195EE35B63FB7F8A4256A230B1420C6DBE54A4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\quotationReview.ts",
+    "Hash": "9250BD71E7EE5713C4873D2B1DA8109B505BB5223254D13DE57A70C8CB2281B7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\quotations.ts",
+    "Hash": "24023C9DE2B8A2C39F7480AC235F540220226E1375AC09EBD42927D7811D5978"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\rawInventoryApi.ts",
+    "Hash": "3C19E402498DB7999BDD6CDAA8CB9948355C6CBA41C3DD7A8FA233C2411B4844"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\rawMaterialData.ts",
+    "Hash": "CC1D5C95CE643D12AB403114FCF7A1A858D73AE5B33C9BF099472089961ED0B6"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\rawMaterialReference.ts",
+    "Hash": "71726A2EECA0CF84D6530A39449582932862E1AFE5849F333230C0B60F551917"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\registerApi.ts",
+    "Hash": "1024E5646C32630969A98113F0C9614D7A026094176C60EC2CE804C201249DBC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\salesApi.ts",
+    "Hash": "90A1FE012890034FDB83EA1419B52C23E120DBB26A43C606C316D27DA0C0D912"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\salesJob.ts",
+    "Hash": "C3972CBF82D15EE9292B02827BE37523113C36CC16FBA7ABAF78883F314DE88A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\salesManagement.ts",
+    "Hash": "3070D47BACEF7DF72BE16CDDA437207EFC932A88AC36114EEFA6241C32D72D9F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\salesOrders.ts",
+    "Hash": "20F7BEB7903D2F27BF1D5942A6C09698A37A8A91C2A864F7BD03E3E5C632187F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\sharedEntryStore.ts",
+    "Hash": "CA2C7002335D346372C2F4CB0F31166B478F0AAE3C75DC587ED2BB86C144C507"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\sparesOpeningApi.ts",
+    "Hash": "24D1806929E68B6DBCC94A5C35CF3B1F10A98E1FA47B5025ED3CD518E70D88F8"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\stockData.ts",
+    "Hash": "87EB32E48B4E104236520EDDA60FE51F4978483512257A8C3B0F0050238900BA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\stockIntelligence.ts",
+    "Hash": "28EEFBADB807A0E142F7EF86BD216944360CA1D6CADA4A5409A8831E061EC64B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\stockSale.ts",
+    "Hash": "A1C253C782824149029A369CD9C87760FA7FBDC50AF1783171B31C0938774A33"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\unitsApi.ts",
+    "Hash": "9A01C0B510F0F5068BC8E164D23FD3B48A590F2BFA57B0496243B6D1B415DD06"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\lib\\useProcurement.ts",
+    "Hash": "C3FDB322FAEF8BA19C06AD676740A531421B53775C27047EE9F09C523507900B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Accounting.tsx",
+    "Hash": "13EADFE94C95D85E42D8CEF9E0FFBC8B36EE1E8CF3353BBAA47E3D61C883207A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\ActivityHistory.tsx",
+    "Hash": "E35072340E9DA2B1599087E1BB37E16E6CAF58A5C14AFF220208CBF67130B622"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Dashboard.tsx",
+    "Hash": "6EA507282981830A4C696C4520A88AC5E0BBFFA193922F0A8FB4AF3A9F192AC9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\FinanceDashboard.tsx",
+    "Hash": "3A20A16E28286410F1C3E0D0396CD008254480C9FFA659029118AABF555B04EB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\GoodsReceivedNotes.tsx",
+    "Hash": "1390C1ABE5062C5BBC555D306044DA6EDAFCEE6694D2E3BDCA5FD51ADA177E10"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Login.tsx",
+    "Hash": "D5EFC486499EC48FB60CCFFA13D10239A8BE60BDE2374954E8AACE59B98827F1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Placeholder.tsx",
+    "Hash": "F15D6DEC4298AA318C0765BF341D32FBB2D708A8B7A603DACAF21BB3CAC43776"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\ProcurementPlanEditor.tsx",
+    "Hash": "9F5797C4FE40A71917C15F1E73FEFED72608CB251EA0817E8BCF9E21A39E62A1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\ProcurementPlanner.tsx",
+    "Hash": "3C17D7D5D4426AB7FA9803E472D3A4815354874FD278E12BE0ED015401C4B7EB"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\PurchaseOrders.tsx",
+    "Hash": "DBCF00D585C5236682A645A81A3B19B279164857ADBABC3705E6E0499A9115F1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Consumables\\CatalogueForms.tsx",
+    "Hash": "4FB826F82EB237A41FAE1F5D0C3A555A211F6455C0FF1FEDCDFB6ADFD03B3320"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Consumables\\ConnectedConsumables.tsx",
+    "Hash": "640D1C57425B8D10403B9FAC762FCED248868BE226FE206B6F121BF9F3795063"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Consumables\\ConsumablesPage.tsx",
+    "Hash": "321BC430C8161D0775C799045502DAE656F3F2766623B47C588C4E9F68024E57"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Costing\\CostingFields.tsx",
+    "Hash": "8704FA993AA669FF41844DCDECD77A9D11DB5E981CF43F8BE3860E17738F4E14"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Costing\\CostingPage.tsx",
+    "Hash": "538C77FDB93DBEC5718FCE1D8AC82DAA9DC782EF51CE04CFBA02EC2BF7EF7A1C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Costing\\CustomCosting.tsx",
+    "Hash": "116EDBDE4AE187C899A1EB8E99149A3822F728B25CF16AD5AB38A0C845901C2F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\ControlledJobDraftWorkspace.tsx",
+    "Hash": "E74EEC2578F104D162366335D8716E543C83218E51248521CA60289096DC3465"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\JobCardDetail.tsx",
+    "Hash": "94571DE51DD02D4B9B4563C1B4757420F8012EE7263FB4C77D66A1E68E640ED0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\JobCardForms.tsx",
+    "Hash": "BF478020C6E9168FE53A619A805E119322D733753EC095A74F6AE036D36AA175"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\JobCardList.tsx",
+    "Hash": "DE5A45C0EB43B5FA85143DBD59819016ADB87F72AF025C927C00265C3000B204"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\JobCardUI.tsx",
+    "Hash": "E75F14FA09A00C7482B00019FA0D2C7ED74C706D9FC9BAEC0F5C2251C3C1BB7F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\JobCosting.tsx",
+    "Hash": "EB4C0D5941BDC523DF06E0FBD687E69B2A51B2AAC4DFA6028B8B415CF8239E6F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\JobRoutingEditor.tsx",
+    "Hash": "4A822B7E91984F946F63CCC396A4DDD905161E5E215A4D53C905108576DA131B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\NewManualJobCard.tsx",
+    "Hash": "9C78156DF0DC6240B87A31E1B79415DDACC6A355228B02429A5D78E475B96E03"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\PlannedJobCosting.tsx",
+    "Hash": "93EEEE2347EE3F4723AEE810A9D33D48A47C955F25D94812D81ED9D9866F6D5C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\JobCards\\RoutingFields.tsx",
+    "Hash": "0B8359BD7EACE76D95F8BA33A23A65F9679B988E4E20373E0186BAE1C124264C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Masters\\MastersPage.tsx",
+    "Hash": "F855ED4F85B35CD6100E5E460C8828F32DF28E38E86B6341F973849D26C8EF45"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Masters\\MasterTable.tsx",
+    "Hash": "62645463FE52BF1156734FB2A86640AD10D3122C8790CF610614565E147A5E71"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Masters\\ModelManager.tsx",
+    "Hash": "8D992FB1B32E833BAAD85C1CB347A2BC47457CC03375B4EDA9BB8B874A9409F1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Masters\\ProcessManager.tsx",
+    "Hash": "FE4522719B7E6C2AA417E20731747B2FFB193BF8ABE2C40C85B08F63DCDB7178"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Masters\\UnitsManager.tsx",
+    "Hash": "68C37BF9855945EE36D85FE30F4B28D154C24F767DCD5BE1EB9F655051908B99"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Masters\\UsersManager.tsx",
+    "Hash": "7BB9E07E1BC851A3CAD4D9BC6FD019E99D882319A4690688DAC954815B825395"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quality\\DailySchedules.tsx",
+    "Hash": "07755CCC1C3CEB0AF79A5C42C6B19E552091C9831412845E3C73B34937C089DC"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quality\\InspectionDetail.tsx",
+    "Hash": "BA8455B8E9DD49CF0FE5B90786FE111D4554C565E6037586ACE65C915757E438"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quality\\InspectionForm.tsx",
+    "Hash": "72887ED3EF9553BAA766D94ABDFC727ECE6E68978BA8AAC058E57313D561B685"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quality\\NewInspection.tsx",
+    "Hash": "3C36A9A211F1480F2AC9B5C664C13D1080D6E7611F5D9966EB27F2835837E401"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quality\\QualityPage.tsx",
+    "Hash": "652EDB13701FF5089A6AE39A4F6F03ED56F37AFFDC1987D6A1111DA1EF6314FF"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quality\\QualityTemplates.tsx",
+    "Hash": "E30233F43D62E08FB389297791FBC7B2616AF1B7C60A4A21AF693A101F2F1E1B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quotations\\ManagerApprovals.tsx",
+    "Hash": "67CF3FFCEDA2E6F3A2177E7C6EA9163F67FBA3C1470E70FB03B5D8DF2019520F"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quotations\\QuotationDelivery.tsx",
+    "Hash": "C95C2D7D64A59F21D5EF91279CAA42D0A417EB96157118DEFF7979B43BD282D0"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quotations\\QuotationDetail.tsx",
+    "Hash": "FB0C2B329642C48B68690BE4CC60CDF60F0603F1FAB70CDFA40F9111FE96A8FA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quotations\\QuotationEditor.tsx",
+    "Hash": "C40D123DE42A1E93CC06F71D65ED32B39EAB5B69375CD8DB42A6F7B9D2CA6E83"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quotations\\QuotationEmail.tsx",
+    "Hash": "9682B582878142F07B530AFB833C902413CE1B6DDB7F7AA407B853DCB874727D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quotations\\QuotationList.tsx",
+    "Hash": "F0C60C0159E394B922C335631F62340F30BF6417FE4E4A2030699F4A734743E1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quotations\\QuotationPrint.tsx",
+    "Hash": "FE5919C45D2D4E2143FAE12FABFED998168A93E6A7E6A9A20EFFB0413C87DBE5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Quotations\\QuotationSettings.tsx",
+    "Hash": "F4235AA51066376FCDE93F5E274EFF6E3823AD8D4FD09528B160C31DDAF7FDA7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\RawMaterials\\RawMaterialPage.tsx",
+    "Hash": "D4C0072DBB1B4ADC63B1D26FA24E978A5934177E71072A9600275C71B9B20872"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Recycling\\RecycledMaterials.tsx",
+    "Hash": "3F6CAD80E08D9374CB80B5F39486C27797DE6504E519C4113E60CFA1F628EB89"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Recycling\\RecyclingPage.tsx",
+    "Hash": "27D33996A9CF1D1C987F707027BE01F7E5C49ED0FE06E4BAEAF3D95D3CB3162C"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Recycling\\RecyclingReferenceViews.tsx",
+    "Hash": "42323FFD59B4C4CCD7992FB1488D0DB98034F1116A61D81D4FAF3046B69888C9"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Recycling\\WastePurchases.tsx",
+    "Hash": "AB63524CF91E4159DC089236B16B041BD15EDFAD6C13B7CC32CA60A2A30EF0B1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Registers\\ItemRegisterPage.tsx",
+    "Hash": "71D790395B2728EFD0E298411F2C4A7571E1D317F4FA3424A3EC29068B3D403D"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Sales\\CreditNotePrint.tsx",
+    "Hash": "6A35ECFE44AE63DA3F965D3A85A5C0FF7DDFE3A01031B5F8F04D8E2344540A97"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Sales\\sales.css",
+    "Hash": "89AF427F0904C784F91C6860473563A9334B3AB9184D565CA572275F0AE8E0F1"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Sales\\SalesDocuments.tsx",
+    "Hash": "F2C02ED416B18101658AE556866CDBAAA1E1EBBB10E01FF4FAF74456D77DBFEF"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Sales\\SalesNavigation.tsx",
+    "Hash": "75AC1E74DDF0DE7C7DBDBA986CD5526274D4C297E253D142549C56548603DE54"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Sales\\SalesReturnInspection.tsx",
+    "Hash": "568074F81E3B3D5C79AC5481EA4ADA85D4C1865B860A3F5ABA346CD01015B6C5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Sales\\SalesTabs.tsx",
+    "Hash": "2EDF5DA58754C43A09455F42FA6795CF32597C7F8D2B1F238DA4BB72146B5037"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Sales\\SalesWorkspace.tsx",
+    "Hash": "C3B7A9A5E1125AC694A12223CAC7280EF059D7AC8D326C73942C77CB84A9FBBA"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\SalesOrders\\ControlledDraftWorkspace.tsx",
+    "Hash": "2E508E550E0EA54A732D4BFC25027667A21E4C95817D79A72F8742B9F20204D3"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\SalesOrders\\NewSalesOrderModal.tsx",
+    "Hash": "CB4EE8FE6F721341703DF8A1A9B97D9845C784C84633CA717F96F4D51206BAE5"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\SalesOrders\\SalesInvoice.tsx",
+    "Hash": "4E5FC717D121E3A2A0C21739D829754B5C18E7EB72DEAB63E8E3A3C497E2A513"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\SalesOrders\\SalesOrderDetail.tsx",
+    "Hash": "E354EEA482D5E4928DD6067FAF1B1A42DA1E6EB81E301B6173080D85EDE40C56"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\SalesOrders\\SalesOrderList.tsx",
+    "Hash": "5BF76948057419658970C31D8C5207613522938DC6E61DF2B2025ADEABE46CF4"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Spares\\SparesOpeningPanel.tsx",
+    "Hash": "C67B83B89469B35BCA87B17AAC168E3990EDF35796430E1A0683CA5C84EFAF7B"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Spares\\SparesPostingForm.tsx",
+    "Hash": "B536B6293B42547D3BEDA2DA532A1C79D94F8BE44801037EEB6F3ABBDBA8E3F7"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Stocks\\SalesOrderDemand.tsx",
+    "Hash": "9C4116F4E390612D0943F41A23E60895993C2439060545EFC2885F4B9831CA1E"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Stocks\\StockOutSaleModal.tsx",
+    "Hash": "D0F7560EB1976C6E9EBBB45A858651C59B1DC198A7013D231CB8704EAA7EE847"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\Stocks\\stocks.tsx",
+    "Hash": "36FAF34AAE3F7A0E31D5B466AF07C2D3DF83935277812296D15ED2743A4B0224"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\TrackTrace\\ConnectedTrace.tsx",
+    "Hash": "921A030CE25430FC222BD582FE3FF4BE0D4CD9F21CD4C392E9E356D80F78545A"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\pages\\TrackTrace\\TrackTrace.tsx",
+    "Hash": "9129425690D5FCB866EB31550EC8279F496E07DAF4CF6134897DBEC393F71547"
+  },
+  {
+    "Path": "F:\\WORK\\ERP\\frontend\\src\\types\\index.ts",
+    "Hash": "1A86D1EFC035B7E106E57B462290868065378F75E60671BBA171967514EA7B56"
+  }
+]

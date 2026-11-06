@@ -1,0 +1,23 @@
+{
+  "outcome": "PASS",
+  "mode": "isolated mock preview",
+  "browser": "headless Edge",
+  "screenshots": [
+    "entry.png",
+    "dashboard-desktop.png",
+    "dashboard-mobile.png",
+    "navigation-mobile.png",
+    "setup-not-assessed.png"
+  ],
+  "checks": [
+    "acknowledgement gate and refresh reset",
+    "sample totals and period changes",
+    "all seven scenarios",
+    "retry/restore and cancellation",
+    "Navapack shell colours",
+    "mobile layout/navigation/Escape/focus",
+    "zero API/external requests",
+    "no browser storage or runtime exceptions"
+  ],
+  "apiRequests": 0
+}

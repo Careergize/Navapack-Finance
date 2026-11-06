@@ -1,0 +1,1 @@
+PASS: preservation hashes; all existing routes/navigation; denied/loading/error guards; entitlement-only navigation for Admin/Accounts/Sales/QC; unavailable shell; validated read-only gateway requests. SSR fixtures, no live Frappe calls.
